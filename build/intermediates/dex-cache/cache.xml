@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\70492ca4fcea091e4f558a9eee371fbbb6301579\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_928f8bccf1ac79ae570e60458741455c0bd77a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\70492ca4fcea091e4f558a9eee371fbbb6301579\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8c9a1a712cb320914730426b9f8db9279b525443\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\d28d91691fe93a565d3661f5c3a8ae16ec8379f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b346f9c4984f9370a7f309a72ffeec080bca754e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\5e155e628cdbaff62efca3284eeede6c7e324956\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b88fe8154f7e4bbc7b7dc031f22c1a0798a0010f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\50fe95daa34facd377731747b45257b319867606\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ac9e8260a6808824e8a1f6592a59b3e1ae85351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\288436f13c9bd4b74a1d7aae8e1a152f187aa322\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67cfa537d27e079aaba96c4362d42c0db648d44b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\f2b7ccd852d3df0d25f3ababfddf17c9f9dee534\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_72181bf93b164f6885366327f4089f1b481a78ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_92dc5ca7b0a412dd791b286d6e489dfa11fed74f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\b1458aea8b4dce967f037e4617f0a74349f9966a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d79d531309c0017bf996e47baec9b08a7ec8257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\267cd0437e3c84dc92864261d40ef61283d9417e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfd955e7c2487a5eab396400ad589087e6bf2e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\9afbdba55e33fdcba778e0eb097893d195133092\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bdc0c0c974844dbe431b96ab00e182f8c07ebf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\9f6c8198545fd11c1ff545b2691597d4e3ba8ad5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe8ef64fd2205d9dabaf00d10863b69e5fc36641\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\42c81890392d72534513af40412cf2c329c276ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43f6e5d0859cc025fb39bfb931049deeae535749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\6d745bc672081912ca01a0b57cee21467fb94d8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e854baefa57198073816f48bf5014c0e364977f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\b291af3f6d9b4fcbe6c9e2cb286924c902f3013e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2fde26a708cb64323faa020ffde35864fce5cc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\f2b7ccd852d3df0d25f3ababfddf17c9f9dee534\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db27144eeba7196ddfa598d2e1eec23cc646fe60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\ecfc7c9667c9fac98395fd3ce4c1c1c4cebe342e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_243e4213dceebbc12efdca4d7ec18b6294386adc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\ba918e71b13929375005a4322dc1415d26cd1031\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d222a14986faac6acbba6aa5266b09cc583d066\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\130f348bedd4fd9c93cc11e060aa6ca8f5d5e7aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49be891fba9ce2ba25c8a0ec5628f7cf8b2571ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\1486dd8edbdf7c33f6b04d9c5992d34653b0a2bc\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4ba3681dc8b0b7f051955258a8a55f59257cfa48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\783b46c9dd4275dc2ab8bf6e65d6b485a5186e87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a51ead090604a83c8e6ffe7ec292c032248d4590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\e04d0c51c62d2af3c23445b8d8f555bd77b2c6a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_165680ed7dafa32252085e244d52c8ed6d325aeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\9c60f7d34af9421b37383ed6a57850bed130191a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bc7d200366d9712cf6f2e148751ed8b655c8f62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\5826b6a03b2c21b9da5ada298150007e3980263c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b33bdeb6720db60efd25b07a605fb7b492e6c3b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\4af6169b1aa414cd289dfa5d4e25200ffad79d4b\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_b9a671574aaf4684c56b34c9177ee5200fe9b096\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\9e618f04336bc87ba0b649823ce28034427bbfb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_690a5d3dd64360e9e9048655e113290989d55b23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\f3a409917eeb6ed8cb3102172500bb1ac58e7e38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1997f7b2cfd42b1d911c6ced49327a1f3355f84e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcb0827983fcd82657ba0ae7f0bc555ac2a0d507">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_62d747ea6fee433bac8ff6652d30fc74ee7a3656\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\1a9c1a83ebd364d16060b3875ec6615ea0dc5b50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef839545b42cea3c26cb0259f8960bf88cd1cd58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\b0aafe8c4afcb37e6e45cb0dd56071456ff270e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05f7b8ef9421ebff0c88517bbf80a58baf5aeca2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\845f985d604c839ff6503f986b0a3e6cf72699bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc31f9407c2842d55cbfcbeb50e6b433e97558e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\d39df14979332452925e6ba2f922c9c9f77959f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_062864ad876e5c278673813f1fb8f27ebbeaf08c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\df7d3cb1764de38c0a9af4ad5faaa1c86f9583ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4134c53ce582c2e20f536ae8bea365359d192716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\1486dd8edbdf7c33f6b04d9c5992d34653b0a2bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a36082bd63d35ac80b960eb66029e2e90dbbaa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\5ca09ce3cdfe12798af821b36372e522593d56ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b158cab135ecb904af4aa6655ad4ffecf5d28cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\983b15db8b6e6a13c0ea946d2ec6517a090f877b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4984f803523b58ea4694c22ee18978566c306ca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\85514d53aa152763ee927c149b40aa869b06a3e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_038344fcf09cf16cf20e237d9ed6c9de89accdde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\26c045e1b28425d12dbeca09b1a9adeb5f3e9861\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b8b411c265bf66b725d8de2de721d759f916b3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_4f248b3f59bacc678009f406518d8c8c182bf09f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\7432d42aff088bab1622376b39988dcac9af831d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc0a0d27381e1e8886d0e4d5e7bea6faa2765c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\03037dd08bbc988914130e42aa5876fe0b0bea8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9efa3dbd2f17dc0830b532ee7040c47410266a6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\4af6169b1aa414cd289dfa5d4e25200ffad79d4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c87afbf26ba15f4e32494265dd49c55aa6343a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\00de50c5a381be2916791114afce4b18d0070743\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1078801cca26b23997e6bc78870563176bcab78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\9498e2cfb1a191d869cdf3695a058a3b21ed3828\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22cd8c22ea9dbe1dea629d3225e26be27fda0c0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\b0aafe8c4afcb37e6e45cb0dd56071456ff270e6\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_447b0a028118b41be4665f8a00aed83a9e838c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\3a32dfb67318e063d3fea870dea448df21ae5413\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_557a2d7051c5f65f257ccff09fdc558668e84810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\267cd0437e3c84dc92864261d40ef61283d9417e\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9a123cdc88cbedc7342f65fb116f2e7f5517bab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\9424942c569189ff304c676827c866089244d3e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c365485768658ea9efb9ebe2ae0dbc3ddbbd728\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\eaf7b6bbe8adf5a65e881d0346862370fb5a95ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04d06b0323d6c09204ad2099a6a9fe3f4939dbe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.android\build-cache\fc37ffa18baca1dee2a163428ebc98039e4a69bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d43db0e59f3ec2c5bd2c9e708ec86b777114a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_f9a6c8d38bc3c8b35427c0c6f6f14fa6b0fd9592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cristi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Workspace\Travelers Pocket\Travelers Pocket\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_f4e878e0d8be3df91bb1b5d006f2cc291a801226\classes.dex" />
+    </item>
+
+</items>

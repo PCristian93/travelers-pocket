@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/nav_food"
+            android:title="Restaurante" />
+        <item
+            android:id="@+id/nav_drinks"
+            android:icon="@drawable/nav_drinks"
+            android:title="Baruri" />
+        <item
+            android:id="@+id/nav_hotel"
+            android:icon="@drawable/nav_hotel"
+            android:title="Hoteluri" />
+        <item
+            android:id="@+id/nav_visit"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Locuri De Vizitat" />
+         <item
+            android:id="@+id/nav_transport"
+            android:icon="@drawable/nav_transport"
+            android:title="Transport" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/nav_settings"
+            android:title="Setari Cont" />
+    </group>
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Travelers Pocket</string>
+    <string name="title_activity_navigation_drawer">Harta</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_account_settings">Setari</string>
+    <string name="title_activity_location_details">LocationDetails</string>
+    <string name="app_id">1316237715072601</string>
+</resources>
